@@ -1,7 +1,16 @@
 <style>
+.left, .right {
+  float: left;
+  width: 20%; /* The width is 20%, by default */
+}
 
-body {background-color:lightblue; text-align:center;}
-h1 {color:blue; font-size:40px;}
-p {font-family:verdana; font-size:20px;}
+.main {
+  float: left;
+  width: 60%; /* The width is 60%, by default */
+}
 
+/* Use Media Query to add a breakpoint at 800px: */
+@media screen and (max-width:800px) {
+  .left , .main, .right {width:100%;}
+}
 </style>
