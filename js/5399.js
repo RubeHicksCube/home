@@ -391,11 +391,11 @@
 	<meta property="og:url" content="https://colterhicks.com/" />
 	<meta property="og:site_name" content="Colter Hicks" />
 	<meta property="article:modified_time" content="2021-04-02T19:59:09+00:00" />
-	<meta property="og:image" content="images/8809.jpg" />
+	<meta property="og:image" content="https://secure.gravatar.com/avatar/c7b51c0e6cdaa63e0bf727c2fca83e7f?s=96&#038;d=mm&#038;r=g" />
 	<meta name="twitter:card" content="summary_large_image" />
 	<meta name="twitter:label1" content="Est. reading time">
 	<meta name="twitter:data1" content="2 minutes">
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://colterhicks.com/#website","url":"https://colterhicks.com/","name":"Colter Hicks","description":"My Personal Site","potentialAction":[{"@type":"SearchAction","target":"https://colterhicks.com/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://colterhicks.com/#primaryimage","inLanguage":"en-US","url":"images/8809.jpg","contentUrl":"images/8809.jpg"},{"@type":"WebPage","@id":"https://colterhicks.com/#webpage","url":"https://colterhicks.com/","name":"Home - Colter Hicks","isPartOf":{"@id":"https://colterhicks.com/#website"},"primaryImageOfPage":{"@id":"https://colterhicks.com/#primaryimage"},"datePublished":"2018-01-29T19:20:34+00:00","dateModified":"2021-04-02T19:59:09+00:00","breadcrumb":{"@id":"https://colterhicks.com/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://colterhicks.com/"]}]},{"@type":"BreadcrumbList","@id":"https://colterhicks.com/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"WebPage","@id":"https://colterhicks.com/","url":"https://colterhicks.com/","name":"Home"}}]}]}</script>
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://colterhicks.com/#website","url":"https://colterhicks.com/","name":"Colter Hicks","description":"My Personal Site","potentialAction":[{"@type":"SearchAction","target":"https://colterhicks.com/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://colterhicks.com/#primaryimage","inLanguage":"en-US","url":"https://secure.gravatar.com/avatar/c7b51c0e6cdaa63e0bf727c2fca83e7f?s=96&#038;d=mm&#038;r=g","contentUrl":"https://secure.gravatar.com/avatar/c7b51c0e6cdaa63e0bf727c2fca83e7f?s=96&#038;d=mm&#038;r=g"},{"@type":"WebPage","@id":"https://colterhicks.com/#webpage","url":"https://colterhicks.com/","name":"Home - Colter Hicks","isPartOf":{"@id":"https://colterhicks.com/#website"},"primaryImageOfPage":{"@id":"https://colterhicks.com/#primaryimage"},"datePublished":"2018-01-29T19:20:34+00:00","dateModified":"2021-04-02T19:59:09+00:00","breadcrumb":{"@id":"https://colterhicks.com/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://colterhicks.com/"]}]},{"@type":"BreadcrumbList","@id":"https://colterhicks.com/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"WebPage","@id":"https://colterhicks.com/","url":"https://colterhicks.com/","name":"Home"}}]}]}</script>
 	<!-- / Yoast SEO plugin. -->
 
 
@@ -437,21 +437,21 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-	<link rel='stylesheet' href='css/c-5.7-wp-includes-css-dist-block-library-style.min.css'>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://c0.wp.com/c/5.7/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
 <style id='wp-block-library-inline-css' type='text/css'>
 .has-text-align-justify{text-align:justify;}
 </style>
-<link rel='stylesheet' href='css/c-5.7-wp-includes-css-dist-block-library-theme.min.css'>
-<link rel='stylesheet' href='css/woo-gutenberg-products-block-build-vendors-style.css'>
-<link rel='stylesheet' href='css/woo-gutenberg-products-block-build-style.css'>
-<link rel='stylesheet' href='css/contact-form-7-includes-css-styles.css'>
-<link rel='stylesheet' href='css/copy-the-code-assets-css-copy-the-code.css'>
+<link rel='stylesheet' id='wp-block-library-theme-css'  href='https://c0.wp.com/c/5.7/wp-includes/css/dist/block-library/theme.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-block-vendors-style-css'  href='https://colterhicks.com/wp-content/plugins/woo-gutenberg-products-block/build/vendors-style.css?ver=4.8.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-block-style-css'  href='https://colterhicks.com/wp-content/plugins/woo-gutenberg-products-block/build/style.css?ver=4.8.0' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://colterhicks.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.4' type='text/css' media='all' />
+<link rel='stylesheet' id='copy-the-code-css'  href='https://colterhicks.com/wp-content/plugins/copy-the-code/assets/css/copy-the-code.css?ver=2.1.1' type='text/css' media='all' />
 <style id='woocommerce-inline-inline-css' type='text/css'>
 .woocommerce form .form-row .required { visibility: visible; }
 </style>
-<link rel='stylesheet' href='css/essential-addons-elementor-cb70d11b8.min.css'>
-<link rel='stylesheet' href='css/header-footer-elementor-assets-css-header-footer-elementor.css'>
-<link rel='stylesheet' href='css/elementor-assets-lib-eicons-css-elementor-icons.min.css'>
+<link rel='stylesheet' id='cb70d11b8-css'  href='https://colterhicks.com/wp-content/uploads/essential-addons-elementor/cb70d11b8.min.css?ver=1618156706' type='text/css' media='all' />
+<link rel='stylesheet' id='hfe-style-css'  href='https://colterhicks.com/wp-content/plugins/header-footer-elementor/assets/css/header-footer-elementor.css?ver=1.5.8' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-css'  href='https://colterhicks.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.11.0' type='text/css' media='all' />
 <style id='elementor-icons-inline-css' type='text/css'>
 
 		.elementor-add-new-section .elementor-add-templately-promo-button{
@@ -464,38 +464,38 @@ img.emoji {
             bottom: 5px;
         }
 </style>
-<link rel='stylesheet' href='css/elementor-assets-lib-animations-animations.min.css'>
-<link rel='stylesheet' href='css/elementor-assets-css-frontend-legacy.min.css'>
-<link rel='stylesheet' href='css/elementor-assets-css-frontend.min.css'>
-<link rel='stylesheet' href='css/elementor-css-post-21246.css'>
-<link rel='stylesheet' href='css/elementor-assets-lib-font-awesome-css-all.min.css'>
-<link rel='stylesheet' href='css/elementor-assets-lib-font-awesome-css-v4-shims.min.css'>
-<link rel='stylesheet' href='css/elementor-css-global.css'>
-<link rel='stylesheet' href='css/elementor-css-post-22.css'>
-<link rel='stylesheet' href='css/header-footer-elementor-inc-widgets-css-frontend.css'>
-<link rel='stylesheet' href='css/woocommerce-gateway-paypal-express-checkout-assets-css-wc-gateway-ppec-frontend.css'>
-<link rel='stylesheet' href='css/oceanwp-assets-css-woo-woo-mini-cart.min.css'>
-<link rel='stylesheet' href='css/oceanwp-assets-css-woo-woocommerce.min.css'>
-<link rel='stylesheet' href='css/oceanwp-assets-css-woo-woo-star-font.min.css'>
-<link rel='stylesheet' href='css/oceanwp-assets-css-woo-woo-quick-view.min.css'>
-<link rel='stylesheet' href='css/oceanwp-assets-fonts-fontawesome-css-all.min.css'>
-<link rel='stylesheet' href='css/oceanwp-assets-css-third-simple-line-icons.min.css'>
-<link rel='stylesheet' href='css/oceanwp-assets-css-third-magnific-popup.min.css'>
-<link rel='stylesheet' href='css/oceanwp-assets-css-third-slick.min.css'>
-<link rel='stylesheet' href='css/oceanwp-assets-css-style.min.css'>
+<link rel='stylesheet' id='elementor-animations-css'  href='https://colterhicks.com/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.1.4' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-frontend-legacy-css'  href='https://colterhicks.com/wp-content/plugins/elementor/assets/css/frontend-legacy.min.css?ver=3.1.4' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css'  href='https://colterhicks.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.1.4' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-21246-css'  href='https://colterhicks.com/wp-content/uploads/elementor/css/post-21246.css?ver=1617832068' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-5-all-css'  href='https://colterhicks.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=4.2.9' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-4-shim-css'  href='https://colterhicks.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=4.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-global-css'  href='https://colterhicks.com/wp-content/uploads/elementor/css/global.css?ver=1617832068' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-22-css'  href='https://colterhicks.com/wp-content/uploads/elementor/css/post-22.css?ver=1617832069' type='text/css' media='all' />
+<link rel='stylesheet' id='hfe-widgets-style-css'  href='https://colterhicks.com/wp-content/plugins/header-footer-elementor/inc/widgets-css/frontend.css?ver=1.5.8' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-gateway-ppec-frontend-css'  href='https://colterhicks.com/wp-content/plugins/woocommerce-gateway-paypal-express-checkout/assets/css/wc-gateway-ppec-frontend.css?ver=2.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='oceanwp-woo-mini-cart-css'  href='https://colterhicks.com/wp-content/themes/oceanwp/assets/css/woo/woo-mini-cart.min.css?ver=5.7' type='text/css' media='all' />
+<link rel='stylesheet' id='oceanwp-woocommerce-css'  href='https://colterhicks.com/wp-content/themes/oceanwp/assets/css/woo/woocommerce.min.css?ver=5.7' type='text/css' media='all' />
+<link rel='stylesheet' id='oceanwp-woo-star-font-css'  href='https://colterhicks.com/wp-content/themes/oceanwp/assets/css/woo/woo-star-font.min.css?ver=5.7' type='text/css' media='all' />
+<link rel='stylesheet' id='oceanwp-woo-quick-view-css'  href='https://colterhicks.com/wp-content/themes/oceanwp/assets/css/woo/woo-quick-view.min.css?ver=5.7' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='https://colterhicks.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/css/all.min.css?ver=5.15.1' type='text/css' media='all' />
+<link rel='stylesheet' id='simple-line-icons-css'  href='https://colterhicks.com/wp-content/themes/oceanwp/assets/css/third/simple-line-icons.min.css?ver=2.4.0' type='text/css' media='all' />
+<link rel='stylesheet' id='magnific-popup-css'  href='https://colterhicks.com/wp-content/themes/oceanwp/assets/css/third/magnific-popup.min.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-css'  href='https://colterhicks.com/wp-content/themes/oceanwp/assets/css/third/slick.min.css?ver=1.6.0' type='text/css' media='all' />
+<link rel='stylesheet' id='oceanwp-style-css'  href='https://colterhicks.com/wp-content/themes/oceanwp/assets/css/style.min.css?ver=1.6.1.1547503753' type='text/css' media='all' />
 
-<link rel='stylesheet' href='css/cookie-notice-includes-..-css-front.min.css'>
-<link rel='stylesheet' href='css/uploads-pum-pum-site-styles-1.css'>
-<link rel='stylesheet' href='css/cf7-conditional-fields-style.css'>
-<link rel='stylesheet' href='css/oceanwp-child-style.css'>
-<link rel='stylesheet' href='css/navmenu-addon-for-elementor-assets-css-frontend.min.css'>
-<link rel='stylesheet' href='css/ocean-extra-assets-css-widgets.css'>
-<link rel='stylesheet' href='css/wp-private-content-plus-css-wppcp-front.css'>
-<link rel='stylesheet' href='css/p-jetpack-9.6-_inc-social-logos-social-logos.min.css'>
+<link rel='stylesheet' id='cookie-notice-front-css'  href='https://colterhicks.com/wp-content/plugins/cookie-notice/includes/../css/front.min.css?ver=5.7' type='text/css' media='all' />
+<link rel='stylesheet' id='popup-maker-site-css'  href='//colterhicks.com/wp-content/uploads/pum/pum-site-styles-1.css?generated=1616353687&#038;ver=1.16.1' type='text/css' media='all' />
+<link rel='stylesheet' id='cf7cf-style-css'  href='https://colterhicks.com/wp-content/plugins/cf7-conditional-fields/style.css?ver=2.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='chld_thm_cfg_child-css'  href='https://colterhicks.com/wp-content/themes/oceanwp-child/style.css?ver=5.7' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-menus-css'  href='https://colterhicks.com/wp-content/plugins/navmenu-addon-for-elementor/assets/css/frontend.min.css?ver=1.1.6' type='text/css' media='all' />
+<link rel='stylesheet' id='oe-widgets-style-css'  href='https://colterhicks.com/wp-content/plugins/ocean-extra/assets/css/widgets.css?ver=5.7' type='text/css' media='all' />
+<link rel='stylesheet' id='wppcp_front_css-css'  href='https://colterhicks.com/wp-content/plugins/wp-private-content-plus/css/wppcp-front.css?ver=5.7' type='text/css' media='all' />
+<link rel='stylesheet' id='social-logos-css'  href='https://c0.wp.com/p/jetpack/9.6/_inc/social-logos/social-logos.min.css' type='text/css' media='all' />
 
-<link rel='stylesheet' href='css/elementor-assets-lib-font-awesome-css-fontawesome.min.css'>
-<link rel='stylesheet' href='css/elementor-assets-lib-font-awesome-css-solid.min.css'>
-<link rel='stylesheet' href='css/p-jetpack-9.6-css-jetpack.css'>
+<link rel='stylesheet' id='elementor-icons-shared-0-css'  href='https://colterhicks.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.1' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-solid-css'  href='https://colterhicks.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.1' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='https://c0.wp.com/p/jetpack/9.6/css/jetpack.css' type='text/css' media='all' />
 <script type="text/template" id="tmpl-variation-template">
 	<div class="woocommerce-variation-description">{{{ data.variation.variation_description }}}</div>
 	<div class="woocommerce-variation-price">{{{ data.variation.price_html }}}</div>
@@ -508,21 +508,21 @@ img.emoji {
 			/* <![CDATA[ */
 			var rcewpp = {
 				"ajax_url":"https://colterhicks.com/wp-admin/admin-ajax.php",
-				"nonce": "c79225a9ab",
+				"nonce": "aaae95b371",
 				"home_url": "https://colterhicks.com"
 			};
 			/* ]]\> */
 		</script>
-		<script type='text/javascript' src='js/jquery.min.js' id='jquery-core-js'></script>
-<script type='text/javascript' src='js/jquery-migrate.min.js' id='jquery-migrate-js'></script>
-<script type='text/javascript' src='js/v4-shims.min.js' id='font-awesome-4-shim-js'></script>
-<script defer type='text/javascript' src='js/s-202114.js' id='woocommerce-analytics-js'></script>
+		<script type='text/javascript' src='https://c0.wp.com/c/5.7/wp-includes/js/jquery/jquery.min.js' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.7/wp-includes/js/jquery/jquery-migrate.min.js' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='https://colterhicks.com/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=4.6.1' id='font-awesome-4-shim-js'></script>
+<script defer type='text/javascript' src='https://stats.wp.com/s-202114.js' id='woocommerce-analytics-js'></script>
 <script type='text/javascript' id='cookie-notice-front-js-extra'>
 /* <![CDATA[ */
-var cnArgs = {"ajaxUrl":"https:\/\/colterhicks.com\/wp-admin\/admin-ajax.php","nonce":"2357b99949","hideEffect":"fade","position":"bottom","onScroll":"0","onScrollOffset":"100","onClick":"0","cookieName":"cookie_notice_accepted","cookieTime":"2592000","cookieTimeRejected":"2592000","cookiePath":"\/","cookieDomain":".colterhicks.com","redirection":"0","cache":"0","refuse":"0","revokeCookies":"0","revokeCookiesOpt":"automatic","secure":"1"};
+var cnArgs = {"ajaxUrl":"https:\/\/colterhicks.com\/wp-admin\/admin-ajax.php","nonce":"a8beac145a","hideEffect":"fade","position":"bottom","onScroll":"0","onScrollOffset":"100","onClick":"0","cookieName":"cookie_notice_accepted","cookieTime":"2592000","cookieTimeRejected":"2592000","cookiePath":"\/","cookieDomain":".colterhicks.com","redirection":"0","cache":"0","refuse":"0","revokeCookies":"0","revokeCookiesOpt":"automatic","secure":"1"};
 /* ]]> */
 </script>
-<script type='text/javascript' src='js/front.min.js' id='cookie-notice-front-js'></script>
+<script type='text/javascript' src='https://colterhicks.com/wp-content/plugins/cookie-notice/includes/../js/front.min.js?ver=2.0.3' id='cookie-notice-front-js'></script>
 <link rel="https://api.w.org/" href="https://colterhicks.com/wp-json/" /><link rel="alternate" type="application/json" href="https://colterhicks.com/wp-json/wp/v2/pages/22" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://colterhicks.com/xmlrpc.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://colterhicks.com/wp-includes/wlwmanifest.xml" /> 
 <meta name="generator" content="WordPress 5.7" />
@@ -532,9 +532,9 @@ var cnArgs = {"ajaxUrl":"https:\/\/colterhicks.com\/wp-admin\/admin-ajax.php","n
 <link rel="alternate" type="text/xml+oembed" href="https://colterhicks.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcolterhicks.com%2F&#038;format=xml" />
 
 <!--BEGIN: TRACKING CODE MANAGER BY INTELLYWP.COM IN HEAD//-->
-<script data-ad-client="ca-pub-4998169032823014" async src="js/adsbygoogle.js"></script>
+<script data-ad-client="ca-pub-4998169032823014" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="js/7126.js"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-6N0DQ4253G"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
@@ -1010,7 +1010,7 @@ var cnArgs = {"ajaxUrl":"https:\/\/colterhicks.com\/wp-admin\/admin-ajax.php","n
                             
                             
                             >Read More</a></div>
-                    </div><div class="eael-entry-footer"><div class="eael-author-avatar"><a href="https://colterhicks.com/blog/author/colter-hicks/"><img alt src="images/8809.jpg" class="avatar avatar-96 photo jetpack-lazy-image" height="96" width="96" loading="lazy" data-lazy-srcset="https://secure.gravatar.com/avatar/c7b51c0e6cdaa63e0bf727c2fca83e7f?s=192&#038;d=mm&#038;r=g 2x" data-lazy-src="https://secure.gravatar.com/avatar/c7b51c0e6cdaa63e0bf727c2fca83e7f?s=96&amp;is-pending-load=1#038;d=mm&#038;r=g" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img alt='' src='images/8809.jpg' srcset='https://secure.gravatar.com/avatar/c7b51c0e6cdaa63e0bf727c2fca83e7f?s=192&#038;d=mm&#038;r=g 2x' class='avatar avatar-96 photo' height='96' width='96' loading='lazy'/></noscript></a></div><div class="eael-entry-meta"><span class="eael-posted-by"><a href="https://colterhicks.com/blog/author/colter-hicks/" title="Posts by Colter Hicks" rel="author"  itemprop="author" itemscope="itemscope" itemtype="https://schema.org/Person">Colter Hicks</a></span><span class="eael-posted-on"><time datetime="2020-Oct-17">2020-Oct-17</time></span></div></div></div></div>
+                    </div><div class="eael-entry-footer"><div class="eael-author-avatar"><a href="https://colterhicks.com/blog/author/colter-hicks/"><img alt src="https://secure.gravatar.com/avatar/c7b51c0e6cdaa63e0bf727c2fca83e7f?s=96&#038;d=mm&#038;r=g" class="avatar avatar-96 photo jetpack-lazy-image" height="96" width="96" loading="lazy" data-lazy-srcset="https://secure.gravatar.com/avatar/c7b51c0e6cdaa63e0bf727c2fca83e7f?s=192&#038;d=mm&#038;r=g 2x" data-lazy-src="https://secure.gravatar.com/avatar/c7b51c0e6cdaa63e0bf727c2fca83e7f?s=96&amp;is-pending-load=1#038;d=mm&#038;r=g" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img alt='' src='https://secure.gravatar.com/avatar/c7b51c0e6cdaa63e0bf727c2fca83e7f?s=96&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/c7b51c0e6cdaa63e0bf727c2fca83e7f?s=192&#038;d=mm&#038;r=g 2x' class='avatar avatar-96 photo' height='96' width='96' loading='lazy'/></noscript></a></div><div class="eael-entry-meta"><span class="eael-posted-by"><a href="https://colterhicks.com/blog/author/colter-hicks/" title="Posts by Colter Hicks" rel="author"  itemprop="author" itemscope="itemscope" itemtype="https://schema.org/Person">Colter Hicks</a></span><span class="eael-posted-on"><time datetime="2020-Oct-17">2020-Oct-17</time></span></div></div></div></div>
         </div>
     </article></div>
             <div class="clearfix"></div>
@@ -1432,23 +1432,23 @@ var cnArgs = {"ajaxUrl":"https:\/\/colterhicks.com\/wp-admin\/admin-ajax.php","n
 		</div>
 	</div>
 </div>
-<link rel='stylesheet' href='css/p-woocommerce-5.1.0-assets-css-photoswipe-photoswipe.min.css'>
-<link rel='stylesheet' href='css/p-woocommerce-5.1.0-assets-css-photoswipe-default-skin-default-skin.min.css'>
-<script type='text/javascript' src='js/photon.min.js' id='jetpack-photon-js'></script>
-<script type='text/javascript' src='js/wp-polyfill.min.js' id='wp-polyfill-js'></script>
+<link rel='stylesheet' id='photoswipe-css'  href='https://c0.wp.com/p/woocommerce/5.1.0/assets/css/photoswipe/photoswipe.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='photoswipe-default-skin-css'  href='https://c0.wp.com/p/woocommerce/5.1.0/assets/css/photoswipe/default-skin/default-skin.min.css' type='text/css' media='all' />
+<script type='text/javascript' src='https://c0.wp.com/p/jetpack/9.6/_inc/build/photon/photon.min.js' id='jetpack-photon-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.7/wp-includes/js/dist/vendor/wp-polyfill.min.js' id='wp-polyfill-js'></script>
 <script type='text/javascript' id='wp-polyfill-js-after'>
 ( 'fetch' in window ) || document.write( '<script src="https://colterhicks.com/wp-includes/js/dist/vendor/wp-polyfill-fetch.min.js?ver=3.0.0"></scr' + 'ipt>' );( document.contains ) || document.write( '<script src="https://colterhicks.com/wp-includes/js/dist/vendor/wp-polyfill-node-contains.min.js?ver=3.42.0"></scr' + 'ipt>' );( window.DOMRect ) || document.write( '<script src="https://colterhicks.com/wp-includes/js/dist/vendor/wp-polyfill-dom-rect.min.js?ver=3.42.0"></scr' + 'ipt>' );( window.URL && window.URL.prototype && window.URLSearchParams ) || document.write( '<script src="https://colterhicks.com/wp-includes/js/dist/vendor/wp-polyfill-url.min.js?ver=3.6.4"></scr' + 'ipt>' );( window.FormData && window.FormData.prototype.keys ) || document.write( '<script src="https://colterhicks.com/wp-includes/js/dist/vendor/wp-polyfill-formdata.min.js?ver=3.0.12"></scr' + 'ipt>' );( Element.prototype.matches && Element.prototype.closest ) || document.write( '<script src="https://colterhicks.com/wp-includes/js/dist/vendor/wp-polyfill-element-closest.min.js?ver=2.0.2"></scr' + 'ipt>' );( 'objectFit' in document.documentElement.style ) || document.write( '<script src="https://colterhicks.com/wp-includes/js/dist/vendor/wp-polyfill-object-fit.min.js?ver=2.3.4"></scr' + 'ipt>' );
 </script>
-<script type='text/javascript' src='js/hooks.min.js' id='wp-hooks-js'></script>
-<script type='text/javascript' src='js/i18n.min.js' id='wp-i18n-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.7/wp-includes/js/dist/hooks.min.js' id='wp-hooks-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.7/wp-includes/js/dist/i18n.min.js' id='wp-i18n-js'></script>
 <script type='text/javascript' id='wp-i18n-js-after'>
 wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
 </script>
-<script type='text/javascript' src='js/lodash.min.js' id='lodash-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.7/wp-includes/js/dist/vendor/lodash.min.js' id='lodash-js'></script>
 <script type='text/javascript' id='lodash-js-after'>
 window.lodash = _.noConflict();
 </script>
-<script type='text/javascript' src='js/url.min.js' id='wp-url-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.7/wp-includes/js/dist/url.min.js' id='wp-url-js'></script>
 <script type='text/javascript' id='wp-api-fetch-js-translations'>
 ( function( domain, translations ) {
 	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
@@ -1456,7 +1456,7 @@ window.lodash = _.noConflict();
 	wp.i18n.setLocaleData( localeData, domain );
 } )( "default", { "locale_data": { "messages": { "": {} } } } );
 </script>
-<script type='text/javascript' src='js/api-fetch.min.js' id='wp-api-fetch-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.7/wp-includes/js/dist/api-fetch.min.js' id='wp-api-fetch-js'></script>
 <script type='text/javascript' id='wp-api-fetch-js-after'>
 wp.apiFetch.use( wp.apiFetch.createRootURLMiddleware( "https://colterhicks.com/wp-json/" ) );
 wp.apiFetch.nonceMiddleware = wp.apiFetch.createNonceMiddleware( "49d622e1be" );
@@ -1470,33 +1470,33 @@ var wpcf7 = [];
 var wpcf7 = [];
 /* ]]> */
 </script>
-<script type='text/javascript' src='js/index.js' id='contact-form-7-js'></script>
+<script type='text/javascript' src='https://colterhicks.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.4' id='contact-form-7-js'></script>
 <script type='text/javascript' id='copy-the-code-js-extra'>
 /* <![CDATA[ */
 var copyTheCode = {"copy_content_as":"","previewMarkup":"<h2>Hello World<\/h2>","buttonMarkup":"<button class=\"copy-the-code-button\" title=\"\"><\/button>","buttonSvg":"<svg viewBox=\"-21 0 512 512\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\"><path d=\"m186.667969 416c-49.984375 0-90.667969-40.683594-90.667969-90.667969v-218.664062h-37.332031c-32.363281 0-58.667969 26.300781-58.667969 58.664062v288c0 32.363281 26.304688 58.667969 58.667969 58.667969h266.664062c32.363281 0 58.667969-26.304688 58.667969-58.667969v-37.332031zm0 0\"><\/path><path d=\"m469.332031 58.667969c0-32.40625-26.261719-58.667969-58.664062-58.667969h-224c-32.40625 0-58.667969 26.261719-58.667969 58.667969v266.664062c0 32.40625 26.261719 58.667969 58.667969 58.667969h224c32.402343 0 58.664062-26.261719 58.664062-58.667969zm0 0\"><\/path><\/svg>","selectors":[{"selector":"copybtn","style":"button","button_text":"Copy","button_title":"Copy to Clipboard","button_copy_text":"Copied!","button_position":"outside"},{"selector":"copy","style":"svg-icon","button_text":"Copy","button_title":"Copy to Clipboard","button_copy_text":"Copied!","button_position":"inside"},{"selector":"pre","style":"button","button_text":"Copy","button_title":"Copy to Clipboard","button_copy_text":"Copied!","button_position":"inside"}],"selector":"pre","settings":{"selector":"pre","button-text":"Copy","button-title":"Copy to Clipboard","button-copy-text":"Copied!","button-position":"inside"},"string":{"title":"Copy to Clipboard","copy":"Copy","copied":"Copied!"},"image-url":"https:\/\/colterhicks.com\/wp-content\/plugins\/copy-the-code\/\/assets\/images\/copy-1.svg"};
 /* ]]> */
 </script>
-<script type='text/javascript' src='js/copy-the-code.js' id='copy-the-code-js'></script>
-<script type='text/javascript' src='js/jquery.blockUI.min.js' id='jquery-blockui-js'></script>
+<script type='text/javascript' src='https://colterhicks.com/wp-content/plugins/copy-the-code/assets/js/copy-the-code.js?ver=2.1.1' id='copy-the-code-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/p/woocommerce/5.1.0/assets/js/jquery-blockui/jquery.blockUI.min.js' id='jquery-blockui-js'></script>
 <script type='text/javascript' id='wc-add-to-cart-js-extra'>
 /* <![CDATA[ */
 var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"https:\/\/colterhicks.com\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
 /* ]]> */
 </script>
-<script type='text/javascript' src='js/add-to-cart.min.js' id='wc-add-to-cart-js'></script>
-<script type='text/javascript' src='js/js.cookie.min.js' id='js-cookie-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/p/woocommerce/5.1.0/assets/js/frontend/add-to-cart.min.js' id='wc-add-to-cart-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/p/woocommerce/5.1.0/assets/js/js-cookie/js.cookie.min.js' id='js-cookie-js'></script>
 <script type='text/javascript' id='woocommerce-js-extra'>
 /* <![CDATA[ */
 var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
 /* ]]> */
 </script>
-<script type='text/javascript' src='js/woocommerce.min.js' id='woocommerce-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/p/woocommerce/5.1.0/assets/js/frontend/woocommerce.min.js' id='woocommerce-js'></script>
 <script type='text/javascript' id='wc-cart-fragments-js-extra'>
 /* <![CDATA[ */
 var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_d8eb4f03433de85a82bbba40572f95ef","fragment_name":"wc_fragments_d8eb4f03433de85a82bbba40572f95ef","request_timeout":"5000"};
 /* ]]> */
 </script>
-<script type='text/javascript' src='js/cart-fragments.min.js' id='wc-cart-fragments-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/p/woocommerce/5.1.0/assets/js/frontend/cart-fragments.min.js' id='wc-cart-fragments-js'></script>
 <script type='text/javascript' id='wc-cart-fragments-js-after'>
 		jQuery( 'body' ).bind( 'wc_fragments_refreshed', function() {
 			var jetpackLazyImagesLoadEvent;
@@ -1515,44 +1515,44 @@ var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax
 </script>
 <script type='text/javascript' id='cb70d11b8-js-extra'>
 /* <![CDATA[ */
-var localize = {"ajaxurl":"https:\/\/colterhicks.com\/wp-admin\/admin-ajax.php","nonce":"c725a09f42","i18n":{"added":"Added ","compare":"Compare","loading":"Loading..."}};
+var localize = {"ajaxurl":"https:\/\/colterhicks.com\/wp-admin\/admin-ajax.php","nonce":"c2231c7bed","i18n":{"added":"Added ","compare":"Compare","loading":"Loading..."}};
 /* ]]> */
 </script>
-<script type='text/javascript' src='js/cb70d11b8.min.js' id='cb70d11b8-js'></script>
-<script type='text/javascript' src='js/woo-quick-view.min.js' id='oceanwp-woo-quick-view-js'></script>
-<script type='text/javascript' src='js/underscore.min.js' id='underscore-js'></script>
+<script type='text/javascript' src='https://colterhicks.com/wp-content/uploads/essential-addons-elementor/cb70d11b8.min.js?ver=1618156706' id='cb70d11b8-js'></script>
+<script type='text/javascript' src='https://colterhicks.com/wp-content/themes/oceanwp/assets/js/third/woo/woo-quick-view.min.js?ver=1.6.1.1547503753' id='oceanwp-woo-quick-view-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.7/wp-includes/js/underscore.min.js' id='underscore-js'></script>
 <script type='text/javascript' id='wp-util-js-extra'>
 /* <![CDATA[ */
 var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
 /* ]]> */
 </script>
-<script type='text/javascript' src='js/wp-util.min.js' id='wp-util-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.7/wp-includes/js/wp-util.min.js' id='wp-util-js'></script>
 <script type='text/javascript' id='wc-add-to-cart-variation-js-extra'>
 /* <![CDATA[ */
 var wc_add_to_cart_variation_params = {"wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_no_matching_variations_text":"Sorry, no products matched your selection. Please choose a different combination.","i18n_make_a_selection_text":"Please select some product options before adding this product to your cart.","i18n_unavailable_text":"Sorry, this product is unavailable. Please choose a different combination."};
 /* ]]> */
 </script>
-<script type='text/javascript' src='js/add-to-cart-variation.min.js' id='wc-add-to-cart-variation-js'></script>
-<script type='text/javascript' src='js/jquery.flexslider.min.js' id='flexslider-js'></script>
-<script type='text/javascript' src='js/woo-display-cart.min.js' id='oceanwp-woo-display-cart-js'></script>
-<script type='text/javascript' src='js/imagesloaded.min.js' id='imagesloaded-js'></script>
-<script type='text/javascript' src='js/woo-scripts.min.js' id='oceanwp-woocommerce-js'></script>
-<script type='text/javascript' src='js/magnific-popup.min.js' id='magnific-popup-js'></script>
-<script type='text/javascript' src='js/lightbox.min.js' id='oceanwp-lightbox-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/p/woocommerce/5.1.0/assets/js/frontend/add-to-cart-variation.min.js' id='wc-add-to-cart-variation-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/p/woocommerce/5.1.0/assets/js/flexslider/jquery.flexslider.min.js' id='flexslider-js'></script>
+<script type='text/javascript' src='https://colterhicks.com/wp-content/themes/oceanwp/assets/js/third/woo/woo-display-cart.min.js?ver=1.6.1.1547503753' id='oceanwp-woo-display-cart-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.7/wp-includes/js/imagesloaded.min.js' id='imagesloaded-js'></script>
+<script type='text/javascript' src='https://colterhicks.com/wp-content/themes/oceanwp/assets/js/third/woo/woo-scripts.min.js?ver=1.6.1.1547503753' id='oceanwp-woocommerce-js'></script>
+<script type='text/javascript' src='https://colterhicks.com/wp-content/themes/oceanwp/assets/js/third/magnific-popup.min.js?ver=1.6.1.1547503753' id='magnific-popup-js'></script>
+<script type='text/javascript' src='https://colterhicks.com/wp-content/themes/oceanwp/assets/js/third/lightbox.min.js?ver=1.6.1.1547503753' id='oceanwp-lightbox-js'></script>
 <script type='text/javascript' id='oceanwp-main-js-extra'>
 /* <![CDATA[ */
 var oceanwpLocalize = {"isRTL":"","menuSearchStyle":"drop_down","sidrSource":null,"sidrDisplace":"1","sidrSide":"left","sidrDropdownTarget":"link","verticalHeaderTarget":"link","customSelects":".woocommerce-ordering .orderby, #dropdown_product_cat, .widget_categories select, .widget_archive select, .single-product .variations_form .variations select","wooCartStyle":"drop_down","ajax_url":"https:\/\/colterhicks.com\/wp-admin\/admin-ajax.php","cart_url":"https:\/\/colterhicks.com\/cart\/","cart_redirect_after_add":"no","view_cart":"View cart","floating_bar":"on","grouped_text":"View products"};
 /* ]]> */
 </script>
-<script type='text/javascript' src='js/main.min.js' id='oceanwp-main-js'></script>
-<script type='text/javascript' src='js/intersectionobserver-polyfill.min.js' id='jetpack-lazy-images-polyfill-intersectionobserver-js'></script>
+<script type='text/javascript' src='https://colterhicks.com/wp-content/themes/oceanwp/assets/js/main.min.js?ver=1.6.1.1547503753' id='oceanwp-main-js'></script>
+<script type='text/javascript' src='https://colterhicks.com/wp-content/plugins/jetpack/vendor/automattic/jetpack-lazy-images/src/js/intersectionobserver-polyfill.min.js?ver=1.1.2' id='jetpack-lazy-images-polyfill-intersectionobserver-js'></script>
 <script type='text/javascript' id='jetpack-lazy-images-js-extra'>
 /* <![CDATA[ */
 var jetpackLazyImagesL10n = {"loading_warning":"Images are still loading. Please cancel your print and try again."};
 /* ]]> */
 </script>
-<script type='text/javascript' src='js/lazy-images.min.js' id='jetpack-lazy-images-js'></script>
-<script type='text/javascript' src='js/core.min.js' id='jquery-ui-core-js'></script>
+<script type='text/javascript' src='https://colterhicks.com/wp-content/plugins/jetpack/vendor/automattic/jetpack-lazy-images/src/js/lazy-images.min.js?ver=1.1.2' id='jetpack-lazy-images-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.7/wp-includes/js/jquery/ui/core.min.js' id='jquery-ui-core-js'></script>
 <script type='text/javascript' id='popup-maker-site-js-extra'>
 /* <![CDATA[ */
 var pum_vars = {"version":"1.16.1","pm_dir_url":"https:\/\/colterhicks.com\/wp-content\/plugins\/popup-maker\/","ajaxurl":"https:\/\/colterhicks.com\/wp-admin\/admin-ajax.php","restapi":"https:\/\/colterhicks.com\/wp-json\/pum\/v1","rest_nonce":null,"default_theme":"3048","debug_mode":"","disable_tracking":"","home_url":"\/","message_position":"top","core_sub_forms_enabled":"1","popups":[],"analytics_route":"analytics","analytics_api":"https:\/\/colterhicks.com\/wp-json\/pum\/v1"};
@@ -1560,46 +1560,46 @@ var pum_sub_vars = {"ajaxurl":"https:\/\/colterhicks.com\/wp-admin\/admin-ajax.p
 var pum_popups = {"pum-3055":{"triggers":[{"type":"auto_open","settings":{"cookie_name":["pum-3055"],"delay":"10000"}}],"cookies":[{"event":"on_popup_close","settings":{"name":"pum-3055","key":"","session":false,"time":"1 month","path":"1"}}],"disable_on_mobile":false,"disable_on_tablet":false,"atc_promotion":null,"explain":null,"type_section":null,"theme_id":"3049","size":"tiny","responsive_min_width":"0%","responsive_max_width":"100%","custom_width":"640px","custom_height_auto":false,"custom_height":"380px","scrollable_content":false,"animation_type":"slide","animation_speed":"350","animation_origin":"center top","open_sound":"none","custom_sound":"","location":"center","position_top":"100","position_bottom":"0","position_left":"0","position_right":"0","position_from_trigger":false,"position_fixed":false,"overlay_disabled":false,"stackable":false,"disable_reposition":false,"zindex":"1999999999","close_button_delay":"0","fi_promotion":null,"close_on_form_submission":false,"close_on_form_submission_delay":"0","close_on_overlay_click":true,"close_on_esc_press":true,"close_on_f4_press":true,"disable_form_reopen":false,"disable_accessibility":false,"theme_slug":"lightbox","id":3055,"slug":"reasoning"}};
 /* ]]> */
 </script>
-<script type='text/javascript' src='js/pum-site-scripts-1.js' id='popup-maker-site-js'></script>
+<script type='text/javascript' src='//colterhicks.com/wp-content/uploads/pum/pum-site-scripts-1.js?defer&#038;generated=1616353687&#038;ver=1.16.1' id='popup-maker-site-js'></script>
 <script type='text/javascript' id='wpcf7cf-scripts-js-extra'>
 /* <![CDATA[ */
 var wpcf7cf_global_settings = {"ajaxurl":"https:\/\/colterhicks.com\/wp-admin\/admin-ajax.php"};
 /* ]]> */
 </script>
-<script type='text/javascript' src='js/scripts.js' id='wpcf7cf-scripts-js'></script>
-<script type='text/javascript' src='js/api.js' id='google-recaptcha-js'></script>
+<script type='text/javascript' src='https://colterhicks.com/wp-content/plugins/cf7-conditional-fields/js/scripts.js?ver=2.0.2' id='wpcf7cf-scripts-js'></script>
+<script type='text/javascript' src='https://www.google.com/recaptcha/api.js?render=6Lfy7YAUAAAAAALPAC23wcHbFilInoZtACHnfWTT&#038;ver=3.0' id='google-recaptcha-js'></script>
 <script type='text/javascript' id='wpcf7-recaptcha-js-extra'>
 /* <![CDATA[ */
 var wpcf7_recaptcha = {"sitekey":"6Lfy7YAUAAAAAALPAC23wcHbFilInoZtACHnfWTT","actions":{"homepage":"homepage","contactform":"contactform"}};
 /* ]]> */
 </script>
-<script type='text/javascript' src='js/index.js' id='wpcf7-recaptcha-js'></script>
-<script type='text/javascript' src='js/wp-embed.min.js' id='wp-embed-js'></script>
+<script type='text/javascript' src='https://colterhicks.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=5.4' id='wpcf7-recaptcha-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.7/wp-includes/js/wp-embed.min.js' id='wp-embed-js'></script>
 <!--[if lt IE 9]>
-<script type='text/javascript' src='js/html5.min.js' id='html5shiv-js'></script>
+<script type='text/javascript' src='https://colterhicks.com/wp-content/themes/oceanwp/assets/js/third/html5.min.js?ver=1.6.1.1547503753' id='html5shiv-js'></script>
 <![endif]-->
 <script type='text/javascript' data-namespace="paypal_sdk" data-partner-attribution-id="WooThemes_EC" src='https://www.paypal.com/sdk/js?client-id=AQbghYd-7mRPyimEriYScIgTnYUsLnr5wVnPnmfPaSzwKrUe3qNzfEc5hXr9Ucf_JG_HFAZpJMJYXMuk&#038;merchant-id=ZLCCC5UPNGNL2&#038;intent=capture&#038;locale=en_US&#038;components=buttons,funding-eligibility,messages&#038;commit=false&#038;currency=USD' id='paypal-checkout-sdk-js'></script>
 <script type='text/javascript' id='wc-gateway-ppec-smart-payment-buttons-js-extra'>
 /* <![CDATA[ */
-var wc_ppec_context = {"use_checkout_js":"","environment":"production","locale":"en_US","page":null,"button_color":"gold","button_shape":"rect","button_label":null,"start_checkout_nonce":"79b176d436","start_checkout_url":"\/?wc-ajax=wc_ppec_start_checkout","return_url":"https:\/\/colterhicks.com\/checkout\/","cancel_url":"","generic_error_msg":"An error occurred while processing your PayPal payment. Please contact the store owner for assistance.","mini_cart_button_layout":"vertical","mini_cart_button_size":"responsive","mini_cart_button_label":null,"mini_cart_disallowed_methods":["CARD"]};
+var wc_ppec_context = {"use_checkout_js":"","environment":"production","locale":"en_US","page":null,"button_color":"gold","button_shape":"rect","button_label":null,"start_checkout_nonce":"86160d84f1","start_checkout_url":"\/?wc-ajax=wc_ppec_start_checkout","return_url":"https:\/\/colterhicks.com\/checkout\/","cancel_url":"","generic_error_msg":"An error occurred while processing your PayPal payment. Please contact the store owner for assistance.","mini_cart_button_layout":"vertical","mini_cart_button_size":"responsive","mini_cart_button_label":null,"mini_cart_disallowed_methods":["CARD"]};
 /* ]]> */
 </script>
-<script type='text/javascript' src='js/wc-gateway-ppec-smart-payment-buttons.js' id='wc-gateway-ppec-smart-payment-buttons-js'></script>
-<script type='text/javascript' src='js/modernizr.custom.js' id='elementor-menus-modernizer-js'></script>
+<script type='text/javascript' src='https://colterhicks.com/wp-content/plugins/woocommerce-gateway-paypal-express-checkout/assets/js/wc-gateway-ppec-smart-payment-buttons.js?ver=2.1.1' id='wc-gateway-ppec-smart-payment-buttons-js'></script>
+<script type='text/javascript' src='https://colterhicks.com/wp-content/plugins/navmenu-addon-for-elementor/assets/js/modernizr.custom.js?ver=1.1.6' id='elementor-menus-modernizer-js'></script>
 <script type='text/javascript' id='elementor-menus-frontend-js-extra'>
 /* <![CDATA[ */
-var ElementorMenusFrontendConfig = {"ajaxurl":"https:\/\/colterhicks.com\/wp-admin\/admin-ajax.php","nonce":"7d1f16535b"};
+var ElementorMenusFrontendConfig = {"ajaxurl":"https:\/\/colterhicks.com\/wp-admin\/admin-ajax.php","nonce":"0353659ee1"};
 var elementorScreenReaderText = {"expand":"expand child menu","collapse":"collapse child menu"};
 var elementorSecondaryScreenReaderText = {"expand":"expand child menu","collapse":"collapse child menu"};
 /* ]]> */
 </script>
-<script type='text/javascript' src='js/frontend.min.js' id='elementor-menus-frontend-js'></script>
-<script type='text/javascript' src='js/webpack.runtime.min.js' id='elementor-webpack-runtime-js'></script>
-<script type='text/javascript' src='js/frontend-modules.min.js' id='elementor-frontend-modules-js'></script>
-<script type='text/javascript' src='js/dialog.min.js' id='elementor-dialog-js'></script>
-<script type='text/javascript' src='js/waypoints.min.js' id='elementor-waypoints-js'></script>
-<script type='text/javascript' src='js/share-link.min.js' id='share-link-js'></script>
-<script type='text/javascript' src='js/swiper.min.js' id='swiper-js'></script>
+<script type='text/javascript' src='https://colterhicks.com/wp-content/plugins/navmenu-addon-for-elementor/assets/js/frontend.min.js?ver=1.1.6' id='elementor-menus-frontend-js'></script>
+<script type='text/javascript' src='https://colterhicks.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.1.4' id='elementor-webpack-runtime-js'></script>
+<script type='text/javascript' src='https://colterhicks.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.1.4' id='elementor-frontend-modules-js'></script>
+<script type='text/javascript' src='https://colterhicks.com/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.8.1' id='elementor-dialog-js'></script>
+<script type='text/javascript' src='https://colterhicks.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2' id='elementor-waypoints-js'></script>
+<script type='text/javascript' src='https://colterhicks.com/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=3.1.4' id='share-link-js'></script>
+<script type='text/javascript' src='https://colterhicks.com/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6' id='swiper-js'></script>
 <script type='text/javascript' id='elementor-frontend-js-extra'>
 /* <![CDATA[ */
 var PaModulesSettings = {"equalHeight_url":"https:\/\/colterhicks.com\/wp-content\/plugins\/premium-addons-for-elementor\/assets\/frontend\/min-js\/premium-eq-height.min.js"};
@@ -1608,7 +1608,7 @@ var PaModulesSettings = {"equalHeight_url":"https:\/\/colterhicks.com\/wp-conten
 <script type='text/javascript' id='elementor-frontend-js-before'>
 var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false,"isImprovedAssetsLoading":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"version":"3.1.4","is_static":false,"experimentalFeatures":[],"urls":{"assets":"https:\/\/colterhicks.com\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"editorPreferences":[]},"kit":{"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":22,"title":"Colter%20Hicks%20%E2%80%93%20My%20Personal%20Site","excerpt":"","featuredImage":false}};
 </script>
-<script type='text/javascript' src='js/frontend.min.js' id='elementor-frontend-js'></script>
+<script type='text/javascript' src='https://colterhicks.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.1.4' id='elementor-frontend-js'></script>
 <script type='text/javascript' id='elementor-frontend-js-after'>
 window.scopes_array = {};
                 window.backend = 0;
@@ -1659,17 +1659,17 @@ window.scopes_array = {};
                     jQuery.cachedAssets( url );
                 });	
 </script>
-<script type='text/javascript' src='js/preloaded-elements-handlers.min.js' id='preloaded-elements-handlers-js'></script>
-<script type='text/javascript' src='js/jquery.zoom.min.js' id='zoom-js'></script>
-<script type='text/javascript' src='js/photoswipe.min.js' id='photoswipe-js'></script>
-<script type='text/javascript' src='js/photoswipe-ui-default.min.js' id='photoswipe-ui-default-js'></script>
+<script type='text/javascript' src='https://colterhicks.com/wp-content/plugins/elementor/assets/js/preloaded-elements-handlers.min.js?ver=3.1.4' id='preloaded-elements-handlers-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/p/woocommerce/5.1.0/assets/js/zoom/jquery.zoom.min.js' id='zoom-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/p/woocommerce/5.1.0/assets/js/photoswipe/photoswipe.min.js' id='photoswipe-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/p/woocommerce/5.1.0/assets/js/photoswipe/photoswipe-ui-default.min.js' id='photoswipe-ui-default-js'></script>
 <script type='text/javascript' id='wc-single-product-js-extra'>
 /* <![CDATA[ */
 var wc_single_product_params = {"i18n_required_rating_text":"Please select a rating","review_rating_required":"yes","flexslider":{"rtl":false,"animation":"slide","smoothHeight":true,"directionNav":false,"controlNav":"thumbnails","slideshow":false,"animationSpeed":500,"animationLoop":false,"allowOneSlide":false},"zoom_enabled":"1","zoom_options":[],"photoswipe_enabled":"1","photoswipe_options":{"shareEl":false,"closeOnScroll":false,"history":false,"hideAnimationDuration":0,"showAnimationDuration":0},"flexslider_enabled":"1"};
 /* ]]> */
 </script>
-<script type='text/javascript' src='js/single-product.min.js' id='wc-single-product-js'></script>
-<script src='js/e-202114.js' defer></script>
+<script type='text/javascript' src='https://c0.wp.com/p/woocommerce/5.1.0/assets/js/frontend/single-product.min.js' id='wc-single-product-js'></script>
+<script src='https://stats.wp.com/e-202114.js' defer></script>
 <script>
 	_stq = window._stq || [];
 	_stq.push([ 'view', {v:'ext',j:'1:9.6',blog:'141869618',post:'22',tz:'-4',srv:'colterhicks.com'} ]);
@@ -1682,4 +1682,4 @@ var wc_single_product_params = {"i18n_required_rating_text":"Please select a rat
 		</div>
 		<!-- / Cookie Notice plugin --></body>
 </html>
-<!--This file was exported by "Export WP Page to Static HTML" plugin which created by ReCorp (https://myrecorp.com) -->
+/*This file was exported by "Export WP Page to Static HTML" plugin which created by ReCorp (https://myrecorp.com) */
