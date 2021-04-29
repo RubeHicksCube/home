@@ -29,6 +29,7 @@ body {
     .button:hover {
             background-color: crimson;
             color: white;
+      
     }
      
 article {
@@ -36,7 +37,6 @@ article {
     padding: 20px;
     width: 70%;
     background-color: #f1f1f1;
-    height: 300px; /* only for demonstration, should be removed */
 }
 .post {
     background-color: rgb(175, 175, 175);
@@ -46,7 +46,10 @@ article {
     padding: 5px;
     text-align: center;
 }
-
+.contained{
+    margin: auto;
+    width: 75%;
+}
     
 section::after {
     content: "";
@@ -66,4 +69,7 @@ section::after {
 
 .center{
 text-align: center;
+margin: auto;
+width: auto;
 }
+
