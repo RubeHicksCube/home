@@ -66,6 +66,12 @@ section::after {
   width: 20%;
   padding: 5px;
 }
+.back img{
+  position: fixed;
+  object-fit: cover;
+  width: 100%;
+  height: 75%;
+  }
 
 .center{
 text-align: center;
