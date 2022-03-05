@@ -1,14 +1,12 @@
 <!DOCTYPE html>
 <html class="html" lang="en-US">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-    <head>
-        <title>CritHicks</title>
-        <link rel="icon" href="/images/HyperCubeIcon.png">
-        <link rel="stylesheet" href="/css/style.css">
-        <link rel="stylesheet" href="/css/navbar.css">
-        <link rel="stylesheet" href="/css/footer.css">
-        <link rel="stylesheet" href="/css/flipcard.css">
-    </head>
+
+<head>
+  <title>CritHicks</title>
+  <link rel="icon" href="/images/HyperCubeIcon.png">
+  <link rel="stylesheet" href="/css/main.css">
+</head>
 
 
 
@@ -29,12 +27,9 @@
       </ul>
 </header>
 
-
-
 <body>
 
-  <button onclick="Dimm()">Hello</button>
-
+<button class="button" onclick="Dimm()">Hello</button>
 <script>
   function Dimm() {
     var copyText = document.getElementById("myInput");
@@ -43,22 +38,47 @@
     document.execCommand("copy");
     alert("Copied the text: " + copyText.value);
   }
-  </script>
-  
+</script>
 
-
-
-
-    
+<section>
+  <p>testing this section</p>
+  <a class="button" href="https://docs.google.com/document/d/1KMV8ikuzkNQnYAguyJClJ6WC5KAanv544fqWtNhGi3A/edit?usp=sharing">Download My Resume Here</a>
+  <button class="button" href="https://docs.google.com/document/d/1KMV8ikuzkNQnYAguyJClJ6WC5KAanv544fqWtNhGi3A/edit?usp=sharing">Download My Resume Here</button>
+</section>
 <hr>
+ <label for="color-select">Choose a color:</label>
+  <select id="color-select">
+    <option value="">--Please choose an option--</option>
+    <option value="blue">Blue</option>
+    <option value="red">Red</option>
+    <option value="green">Green</option>
+    <option value="yellow">Yellow</option>
+    <option value="orange">Orange</option>
+    <option value="pink">Pink</option>
+  </select>
+  
+  <label for="learn">What do you hope to learn today?</label>
+  <textarea id="learn" name="learn" rows="5" cols="30">
+  </textarea>
+  <br>
+  <br>
+  <div class="title">Hell Yeah!</div>
+  <p id="content">You're gunna die clown!</p>
+  
+  
+  <button class="button">Submit</button>
+
+
+
+<hr>
+
+<article>
+  <h1>Hi, in an article element</h1>
+</article>
+
+
 <div class="footer">
   <p>This is a <a href="https://colterhicks.com">ColterHicks.com</a> site.</p>
 </div>
-
-
 </body>
-
-
-
-
 </html>

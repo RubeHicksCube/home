@@ -1,20 +1,18 @@
 <!DOCTYPE html>
 <html class="html" lang="en-US">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-    <head>
-        <title>CritHicks</title>
-        <link rel="icon" href="/images/HyperCubeIcon.png">
-        <link rel="stylesheet" href="/css/style.css">
-        <link rel="stylesheet" href="/css/navbar.css">
-        <link rel="stylesheet" href="/css/footer.css">
-        <link rel="stylesheet" href="/css/flipcard.css">
-    </head>
+<head>
+  <title>CritHicks</title>
+  <link rel="icon" href="images/HyperCubeIcon.png">
+  <link rel="stylesheet" href="/css/main.css">
+</head>
 
 
 
 <header>
       <ul class="topnav">
         <li><a href="/index.html">Home</a></li>
+        <li><a href="/pages/about.html">About</a></li>
         <li><a href="https://colterhicks.com">ColterHicks.com</a></li>
         <li><a href="https://colterhicks.com/blog">Blog</a></li>
         <li class="right"><a href="https://colterhicks.com/referral-codes">Referral Codes</a></li>
@@ -31,77 +29,84 @@
 
 
 <body>
-  <br>
-  <h3 class="center">Time since last update</h3>
-  <h2 id="finalCountup" class="center"></h2>
-            <script>
-            // Set the date we're counting down to
-            var countFromDate = new Date("Apr 28, 2021").getTime();
+  <div class="contained">
 
-            // Update the count down every 1 second
-            var x = setInterval(function() {
+      <br>
+      <h3 class="center">Time since last update</h3>
+      <h2 id="finalCountup" class="center"></h2>
+                <script>
+                // Set the date we're counting down to
+                var countFromDate = new Date("Apr 28, 2021").getTime();
 
-            // Get today's date and time
-            var now = new Date().getTime();
-                
-            // Find the distance between now and the count down date
-            var distance = now - countFromDate;
-                
-            // Time calculations for days, hours, minutes and seconds
-            var days = Math.floor(distance / (1000 * 60 * 60 * 24));
-            var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-            var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
-            var seconds = Math.floor((distance % (1000 * 60)) / 1000);
-                
-            // Output the result in an element with id="finalCountup"
-            document.getElementById("finalCountup").innerHTML = days + "d " + hours + "h "
-            + minutes + "m " + seconds + "s ";
-                
-            // If the count down is over, write some text 
-            if (distance < 0) {
-                clearInterval(x);
-                document.getElementById("finalCountup").innerHTML = "EXPIRED";
-            }
-            }, 1000);
-            </script>
+                // Update the count down every 1 second
+                var x = setInterval(function() {
 
-<div class="post">
-  <h2>2021-06-28</h2>
-  <li>Put pages into folders, enabling better files structure on the back end</li>
-</div>
+                // Get today's date and time
+                var now = new Date().getTime();
+                    
+                // Find the distance between now and the count down date
+                var distance = now - countFromDate;
+                    
+                // Time calculations for days, hours, minutes and seconds
+                var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+                var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+                var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+                var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+                    
+                // Output the result in an element with id="finalCountup"
+                document.getElementById("finalCountup").innerHTML = days + "d " + hours + "h "
+                + minutes + "m " + seconds + "s ";
+                    
+                // If the count down is over, write some text 
+                if (distance < 0) {
+                    clearInterval(x);
+                    document.getElementById("finalCountup").innerHTML = "EXPIRED";
+                }
+                }, 1000);
+                </script>
 
-<div class="post">
-  <h2>2021-04-28</h2>
-  <li>Added an about Page</li>
-  <li>Added a test page</li>
-  <li>minimized home page</li>
-</div>
-
-<div class="post">
-    <h2>2021-04-24</h2>
-    <li>Added a profile picture on the home page.</li> 
-    <li>Made navbar to the top.</li>
-    <li>Addes the first blog post and a couple other pages.</li>
-</div>
-
+    <div class="post">
+    <div>
+      <h2>2021-06-28</h2>
+      <li>Put pages into folders, enabling better files structure on the back end</li>
+    </div>
 <hr>
-
-<div class="post"> 
-    <h1>Welcome! This is the first update!</h1> 
-    <h2>2021-04-11</h2>
-    <p>I wanted to put together a website from scratch to really gather an understanding of how to completely personalize my own site, and maybe save myself a few bucks too.</p> 
-    <p>I am hosting this page 100% free via GitHub and Netlify, manually coded through VS Code.</p>
-    <p>As a test, I would like to use this site to practice the things that I learn and post them on the web. They will be linked in special ways throughout this page when I grow my experience.</p>
-    <p>As an axample, this is all written directly without any document builders, manually typing each tag to make it a paragraph, and starting each paragraph on a new line.</p>
-    <p>I hope to link each project as a new page like <a href="https://github.com/RubeHicksCube" target="_blank">Here</a> and open to all to see exactly how I make a site like this.</p>
-    <p>Right now all that has been put together on the site is a Home page and some links to colterhicks.com. Come back later for more updates to this page!</p>
-</div>
-
+    <div>
+      <h2>2021-04-28</h2>
+      <li>Added an about Page</li>
+      <li>Added a test page</li>
+      <li>minimized home page</li>
+    </div>
 <hr>
-<div class="footer">
-  <p>This is a <a href="https://colterhicks.com">ColterHicks.com</a> site.</p>
-</div>
+    <div>
+      <h2>2021-04-24</h2>
+      <li>Added a profile picture on the home page.</li> 
+      <li>Made navbar to the top.</li>
+      <li>Addes the first blog post and a couple other pages.</li>
+    </div>
+<hr>
+    <div> 
+        <h1>Welcome! This is the first update!</h1> 
+        <h2>2021-04-11</h2>
+        <p>I wanted to put together a website from scratch to really gather an understanding of how to completely personalize my own site, and maybe save myself a few bucks too.</p> 
+        <p>I am hosting this page 100% free via GitHub and Netlify, manually coded through VS Code.</p>
+        <p>As a test, I would like to use this site to practice the things that I learn and post them on the web. They will be linked in special ways throughout this page when I grow my experience.</p>
+        <p>As an axample, this is all written directly without any document builders, manually typing each tag to make it a paragraph, and starting each paragraph on a new line.</p>
+        <p>I hope to link each project as a new page like <a href="https://github.com/RubeHicksCube" target="_blank">Here</a> and open to all to see exactly how I make a site like this.</p>
+        <p>Right now all that has been put together on the site is a Home page and some links to colterhicks.com. Come back later for more updates to this page!</p>
+    </div>
+    </div>
 
+
+    <div class="sidebar">
+      <a href="./Post.html">Posts</a>
+    </div>
+
+    <hr>
+    <div class="footer">
+      <p>This is a <a href="https://colterhicks.com">ColterHicks.com</a> site.</p>
+    </div>
+ </div>   
 
 </body>
 
