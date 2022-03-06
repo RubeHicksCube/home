@@ -3,8 +3,8 @@
 }
 .contained{
     display: grid;
-    grid-template-columns: 300px 300px 300px;
-    grid-template-rows: 200px 80% 200px;
+    grid-template-columns: 30px repeat(7,1fr);
+    grid-template-rows: 70px 1fr;
     grid-template-areas: 
     "hd hd hd hd hd hd hd hd"
     "main main main main main main sd sd"
@@ -38,6 +38,10 @@
       
 }
 
+.head{
+    grid-area: hd;
+}
+
 .post{
     grid-area: main;
     background-color: rgb(175, 175, 175);
@@ -45,7 +49,6 @@
     border: 1px solid black;
     margin: 1%;
     padding: 1%;
-    text-align: center;
 }
 
 .sidebar{
@@ -58,7 +61,7 @@
 }
 
 
-
+/* Images */
 .img{
     display:flex;
     margin-left: auto;
