@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html class="html" lang="en-US">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-    <head>
-        <title>CritHicks</title>
-        <link rel="icon" href="images/HyperCubeIcon.png">
-        <link rel="stylesheet" href="css/main.css">
-    </head>
+<head>
+  <title>CritHicks</title>
+  <link rel="icon" href="/images/HyperCubeIcon.png">
+  <link rel="stylesheet" href="/css/main.css">
+</head>
 
 
-
+<!-- Top bar block for all pages -->
 <header>
       <ul class="topnav">
         <li><a class="active" href="/index.html">Home</a></li>
@@ -22,46 +22,49 @@
               <a href="/pages/Test.html">Test Page</a>
             </div>
       </ul>
+
 </header>
 
-
-
-<body>
+<!-- Body -->
+<body class="center">
         <br>
-        <h1 class="center">Colter Hicks</h1> 
-    
+        <h1>Colter Hicks</h1> 
 
-        <div class="post">
-            <p>All of the source files for this site can be found <a href="https://github.com/RubeHicksCube/home" target="_blank">here.</a> Give it a try! Download the files and run the html files locally by simply clicking them and opening them with your browser, and even edit it with a text editor! It's really simple!</p>
-        </div>
+        <a class="button" href="https://github.com/RubeHicksCube/home" target="_blank">
+            <p >All of the source files for this site can be found HERE!
+                <p>Give it a try! <br>Download the files and run the html files locally by simply opening them with your browser, 
+                    and even edit it with nothing but a text editor! It's really simple!</p>
+                </p>
+        </a>
+        
+            
+        
 
-<hr>        
+    <hr>        
         <div class="post">
             <p>Don't ever say I wouldn't even give you the time of day. Because right now that's about all I've learned to code.</p>
-            <h2 id="getdate" class="center"></h2>
+            <p id="getdate">
             <script>
                 var x = setInterval(function() {
                 document.getElementById('getdate').innerHTML = Date();
                 });
             </script>
+            </p>
         </div>   
         
         <div class="post">
             <p>If you have any tips and tricks for web developement, I am still learning! Please go to my <a href="https://colterhicks.com">main site</a> and send me a message! I would love to learn in order to teach!</p>
         </div>
 
-<hr>
-
-<Footer>
-    <div class="footer">
-        <p>This is a <a href="https://colterhicks.com">ColterHicks.com</a> site.</p>
-      </div>
-</Footer>
-
-
-
 </body>
 
+<!-- Footer -->
+<hr>
+<Footer class="footer">
+  <div>
+      <p>This is a <a href="https://colterhicks.com">ColterHicks.com</a> site.</p>
+  </div>
+</Footer>
 
 
 
