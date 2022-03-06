@@ -53,11 +53,12 @@
 
 .sidebar{
     grid-area: sd;
-    background-color: inherit;
-    color: inherit;
-    border: 2px solid black;
+    background-color: rgb(175, 175, 175);
+    color: black;
+    border: 1px solid black;
+    margin: 1%;
     padding: 1%;
-    text-align: left;
+    text-align: center;
 }
 
 .footer {
