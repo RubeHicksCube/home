@@ -12,6 +12,3 @@ This is my main website. It is hosted on Wordpress for now and using SiteGround 
 This is what inspired me to find the cheapest way to host a website publicly, without taking up any pocket change.
 
 When this site changes location, I will update this information to match.
-
-Referral Codes
-If you would like to participate in any of my referral codes, please reference the link above.
